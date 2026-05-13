@@ -34,7 +34,8 @@ Structured Card Storage
 ↓
 Review / Edit / Reuse
 
----
+```text
+
 Product Direction
 
 Clarify is designed for people who frequently capture and process ideas:
@@ -107,4 +108,4 @@ Knowledge graph
 Calendar and reminder integration
 Export to Notion / Obsidian / Markdown
 
----text
+
