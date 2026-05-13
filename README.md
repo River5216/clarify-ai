@@ -33,9 +33,6 @@ Tag Generation
 Structured Card Storage
 ↓
 Review / Edit / Reuse
-
-```text
-
 Product Direction
 
 Clarify is designed for people who frequently capture and process ideas:
@@ -107,5 +104,6 @@ Automatic task extraction
 Knowledge graph
 Calendar and reminder integration
 Export to Notion / Obsidian / Markdown
+Notes
 
-
+This repository records the product idea, MVP planning, design thinking, and future development process of Clarify.
