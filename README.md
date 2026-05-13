@@ -63,6 +63,7 @@ Work
 Study
 Life
 Inspiration
+
 4. Dynamic Tags
 
 AI generates short and practical tags based on the actual content.
