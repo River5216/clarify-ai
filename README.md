@@ -39,13 +39,13 @@ The goal is to reduce the friction between having an idea and turning it into so
 
 Clarify is designed for people who frequently capture and process ideas:
 
- ✅Students
- ✅Creators
- ✅Writers
- ✅Product managers
- ✅Researchers
- ✅Knowledge workers
- ✅Anyone who thinks better by speaking
+✅Students
+✅Creators
+✅Writers
+✅Product managers
+✅Researchers
+✅Knowledge workers
+✅Anyone who thinks better by speaking
 
 ---
 
@@ -63,10 +63,10 @@ The system automatically converts raw thoughts into clearer, more structured con
 
 Root categories may include:
 
- ✅Work
- ✅Study
- ✅Life
- ✅Inspiration
+✅Work
+✅Study
+✅Life
+✅Inspiration
 
 4. Dynamic Tags
 
@@ -81,31 +81,31 @@ Each processed note becomes a card that can be reviewed, edited, searched, and r
 ### MVP Plan
 
 #### Phase 1: Basic Prototype
- ✅ Build a mobile-first app interface
- ✅ Support voice recording
- ✅ Convert voice to text
- ✅ Display transcribed content
+✅ Build a mobile-first app interface
+✅ Support voice recording
+✅ Convert voice to text
+✅ Display transcribed content
  
 #### Phase 2: AI Processing
- ✅ Clean transcription text
- ✅ Generate structured summaries
- ✅ Classify content into root categories
- ✅ Generate dynamic tags
+✅ Clean transcription text
+✅ Generate structured summaries
+✅ Classify content into root categories
+✅ Generate dynamic tags
  
 #### Phase 3: Storage & Review
- ✅ Store processed cards locally
- ✅ Build a card-based home screen
- ✅ Support manual editing
- ✅ Add search and filtering
+✅ Store processed cards locally
+✅ Build a card-based home screen
+✅ Support manual editing
+✅ Add search and filtering
 
 ---
  
 ### Possible Tech Stack
- ✅Expo / React Native
- ✅Whisper API or other speech-to-text service
- ✅Claude / GPT for content structuring
- ✅Local storage or lightweight database
- ✅Figma for UI exploration
+✅Expo / React Native
+✅Whisper API or other speech-to-text service
+✅Claude / GPT for content structuring
+✅Local storage or lightweight database
+✅Figma for UI exploration
 
 ---
 
@@ -118,12 +118,12 @@ The goal is not only to build an app, but also to explore how AI can become a pe
 ---
 
 ### Future Ideas
- ✅Multi-modal capture
- ✅Daily thought review
- ✅Automatic task extraction
- ✅Knowledge graph
- ✅Calendar and reminder integration
- ✅Export to Notion / Obsidian / Markdown
+✅Multi-modal capture
+✅Daily thought review
+✅Automatic task extraction
+✅Knowledge graph
+✅Calendar and reminder integration
+✅Export to Notion / Obsidian / Markdown
 
 ### Notes
 This repository records the product idea, MVP planning, design thinking, and future development process of Clarify.
