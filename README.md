@@ -35,18 +35,22 @@ The goal is to reduce the friction between having an idea and turning it into so
 
 ---
 
-Product Direction
+### Product Direction
 
 Clarify is designed for people who frequently capture and process ideas:
 
-Students
-Creators
-Writers
-Product managers
-Researchers
-Knowledge workers
-Anyone who thinks better by speaking
-Key Features
+ ✅Students
+ ✅Creators
+ ✅Writers
+ ✅Product managers
+ ✅Researchers
+ ✅Knowledge workers
+ ✅Anyone who thinks better by speaking
+
+---
+
+### Key Features
+
 1. Voice-First Capture
 
 Users can quickly record ideas without typing or organizing manually.
@@ -59,10 +63,10 @@ The system automatically converts raw thoughts into clearer, more structured con
 
 Root categories may include:
 
-Work
-Study
-Life
-Inspiration
+ ✅Work
+ ✅Study
+ ✅Life
+ ✅Inspiration
 
 4. Dynamic Tags
 
@@ -72,41 +76,54 @@ AI generates short and practical tags based on the actual content.
 
 Each processed note becomes a card that can be reviewed, edited, searched, and reused.
 
-MVP Plan
-Phase 1: Basic Prototype
- Build a mobile-first app interface
- Support voice recording
- Convert voice to text
- Display transcribed content
-Phase 2: AI Processing
- Clean transcription text
- Generate structured summaries
- Classify content into root categories
- Generate dynamic tags
-Phase 3: Storage & Review
- Store processed cards locally
- Build a card-based home screen
- Support manual editing
- Add search and filtering
-Possible Tech Stack
-Expo / React Native
-Whisper API or other speech-to-text service
-Claude / GPT for content structuring
-Local storage or lightweight database
-Figma for UI exploration
-Current Status
+---
+
+### MVP Plan
+
+#### Phase 1: Basic Prototype
+ ✅ Build a mobile-first app interface
+ ✅ Support voice recording
+ ✅ Convert voice to text
+ ✅ Display transcribed content
+ 
+#### Phase 2: AI Processing
+ ✅ Clean transcription text
+ ✅ Generate structured summaries
+ ✅ Classify content into root categories
+ ✅ Generate dynamic tags
+ 
+#### Phase 3: Storage & Review
+ ✅ Store processed cards locally
+ ✅ Build a card-based home screen
+ ✅ Support manual editing
+ ✅ Add search and filtering
+
+---
+ 
+### Possible Tech Stack
+ ✅Expo / React Native
+ ✅Whisper API or other speech-to-text service
+ ✅Claude / GPT for content structuring
+ ✅Local storage or lightweight database
+ ✅Figma for UI exploration
+
+---
+
+### Current Status
 
 This project is currently in the product planning and early prototype stage.
 
 The goal is not only to build an app, but also to explore how AI can become a personal thinking and organization layer.
 
-Future Ideas
-Multi-modal capture
-Daily thought review
-Automatic task extraction
-Knowledge graph
-Calendar and reminder integration
-Export to Notion / Obsidian / Markdown
-Notes
+---
 
+### Future Ideas
+ ✅Multi-modal capture
+ ✅Daily thought review
+ ✅Automatic task extraction
+ ✅Knowledge graph
+ ✅Calendar and reminder integration
+ ✅Export to Notion / Obsidian / Markdown
+
+### Notes
 This repository records the product idea, MVP planning, design thinking, and future development process of Clarify.
